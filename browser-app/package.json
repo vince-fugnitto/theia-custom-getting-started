@@ -7,7 +7,6 @@
     "@theia/editor": "latest",
     "@theia/filesystem": "latest",
     "@theia/getting-started": "latest",
-    "@theia/languages": "latest",
     "@theia/markers": "latest",
     "@theia/messages": "latest",
     "@theia/monaco": "latest",
@@ -15,8 +14,6 @@
     "@theia/preferences": "latest",
     "@theia/process": "latest",
     "@theia/terminal": "latest",
-    "@theia/textmate-grammars": "latest",
-    "@theia/typescript": "latest",
     "@theia/workspace": "latest"
   },
   "devDependencies": {
